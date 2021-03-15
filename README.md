@@ -6,4 +6,4 @@
   <a href="https://blog.csdn.net/qq_42907802"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
-[![即学即码](https://github-readme-stats.vercel.app/api?username=apanly&theme=dark)](https://github.com/apanly)
+[![即学即码](https://github-readme-stats.vercel.app/api?username=apanly&theme=merko)](https://github.com/apanly)
